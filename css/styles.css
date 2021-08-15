@@ -100,7 +100,7 @@ button i:active {
     display: block;
     margin: 1rem auto;
     height: 8vh;
-    width: 280px;
+    width: 250px;
     background-color: #F9FAFB;
 }
 
@@ -132,7 +132,7 @@ footer p {
 
 @media screen and (max-width: 500px) {
     a {
-        font-size: .9rem;
+        font-size: 1rem;
     }
 
     footer section {
